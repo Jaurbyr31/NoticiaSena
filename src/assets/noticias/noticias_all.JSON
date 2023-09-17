@@ -1,0 +1,85 @@
+[
+    {
+        "noticias": {
+            "name": "All",
+            "date": "2023-07-30",
+            "show": true,
+            "categorys": [
+                {
+                    "name": "Formación",
+                    "value": "formacion"
+                },
+                {
+                    "name": "Cordinación",
+                    "value": "cordinacion"   
+                },
+                {
+                    "name": "Novedades",
+                    "value": "novedades"
+                },
+                {
+                    "name": "Otros",
+                    "value": "otros"
+                }
+            ]
+
+        },
+        "detailNoticias": [
+            {
+                "title": "Del SENA a Canadá",
+                "date": "2023-08-05",
+                "show": true,
+                "text_small": "Cristian Fernando Vergara Martínez encontró en Quebec (Canadá) la posibilidad de consolidar empresa del sector metalmecánico.",
+                "text_long": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas 'Letraset', las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.",
+                "url_imag": "https://www.sena.edu.co/es-co/Noticias/NoticiasImg/Caldas-08032023.jpg?RenditionID=5",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            },
+            {
+                "title": "SENA impulsa el futuro",
+                "date": "2023-08-05",
+                "show": true,
+                "text_small": "Con 1.900 cupos disponibles, el programa se pondrá en marcha en Cesar, Antioquia y Bolívar, en modalidad virtual y presencial. La Entidad participa activamente en la Semana Nacional de las Juventudes y contribuye a la justicia social del país.",
+                "text_long": "Se trata de la 'Certificatón para jóvenes', programa que tiene el objetivo de mejorar la calidad de vida de los jóvenes entre 16 y 28 años, dotándolos de herramientas concretas para su desarrollo personal y profesional. Esta convocatoria surge en la 'Semana de las Juventudes' y se centra en el reconocimiento de la experiencia y conocimientos adquiridos por estos jóvenes en diversas áreas como Logística, Diseño de Modas, Turismo y Gestión Administrativa, brindando así oportunidades para el crecimiento en sectores clave de la economía.",
+                "url_imag": "https://www.sena.edu.co/es-co/Noticias/NoticiasImg/Certtificat2_10082023.jpg",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            },
+            {
+                "title": "SENA y el hidrógeno verde",
+                "date": "2023-09-16",
+                "show": true,
+                "text_small": "Este proyecto, que utiliza una nueva fuente de energía, recalca la importancia de brindar a los jóvenes oportunidades para aplicar sus conocimientos en la resolución de problemas y contribuir al desarrollo sostenible de su comunidad y el país.",
+                "text_long": "El programa de formación Tecnoacademia Cúcuta, que opera en el Centro CEDRUM del SENA, en Norte de Santander, está demostrando su compromiso con la innovación y el desarrollo sostenible a través del semillero de investigación SEIINTAC. En este caso, bajo la dirección del facilitador Jorge Fuentes, el dinamizador Mauricio Puente, los aprendices Ronald Álvarez, Juan Gómez, Brayan Flórez, Breiner Celis, Camilo Casa y Terry Mazuera, de la línea de Electrónica, han materializado un avance significativo al diseñar un prototipo para la generación de hidrógeno verde mediante el proceso de electrólisis del agua.",
+                "url_imag": "https://www.sena.edu.co/es-co/Noticias/NoticiasImg/Adobe_Express_20230916_1532410_1.png",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            },
+            {
+                "title": "De Caldas a Francia",
+                "date": "2023-09-15",
+                "show": true,
+                "text_small": "Orlando Martínez, aprendiz del SENA Regional Caldas, hace parte del grupo que viajó a Europa para compartir sus vivencias en la transformación del cacao en productos con valor agregado.",
+                "text_long": "Orlando Martínez, aprendiz del Centro Pecuario y Agroempresarial del SENA Caldas, oriundo de Victoria, oriente del departamento, hace parte del grupo que viajó a Francia para realizar un intercambio de conocimientos en temas agroindustriales, gracias al proyecto que desarrolló basado en la transformación del cacao en un manjar sin azúcar. Técnicamente el proyecto del aprendiz se denomina 'Diseño de un producto alimenticio basado en recursos regionales como la leche y el chocolate amargo que represente al municipio de Victoria', y nació en 2022, año en el que Orlando ingresó al técnico en Producción de Productos Lácteos gracias a la articulación que tiene la Institución Educativa San Pablo de Victoria con el Centro Pecuario y Agroempresarial.",
+                "url_imag": "https://www.sena.edu.co/es-co/Noticias/NoticiasImg/Caldas1-15092023.jpg?RenditionID=5",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            },
+            {
+                "title": "Impulso a la agricultura",
+                "date": "2023-09-15",
+                "show": true,
+                "text_small": "Proyecto del SENA en Pitalito es ejemplo de cómo garantizar la seguridad alimentaria mediante prácticas respetuosas con el medio ambiente.",
+                "text_long": "En Pitalito (Huila), donde sobresale un majestuoso paisaje cafetero, el SENA Regional Huila está liderando un esfuerzo significativo para promover la agricultura sostenible en la región, mediante la implementación de huertas orgánicas. Este proyecto busca fortalecer la seguridad alimentaria, fomentar prácticas agrícolas respetuosas con el medio ambiente y brindar oportunidades de formación a los aprendices, proceso que busca ser replicado en toda la ruralidad del sur del Huila.",
+                "url_imag": "https://www.sena.edu.co/es-co/Noticias/NoticiasImg/Foto%20huerta%20Yambor-15092023.jpg?RenditionID=5",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            },
+            {
+                "title": "Puro talento antioqueño",
+                "date": "2023-09-12",
+                "show": true,
+                "text_small": "En el Centro del Diseño y Manufactura del Cuero, Regional Antioquia, se realizó ‘Tecnocuero 2023’. Con su trabajo, aprendices e instructores del SENA evidencian un avance significativo hacia la ecoeficiencia, un compromiso sostenible.",
+                "text_long": "Con la participación de más de 200 empresarios, emprendedores y la comunidad en general, se realizó en las instalaciones del Complejo Sur del SENA la XV edición de 'Tecnocuero: Avanzando hacia la ecoeficiencia', escenario pare el desarrollo y crecimiento de este sector. El evento, que se consolida como el espacio propicio para la actualización de conocimientos, tuvo una jornada académica efectuada de la mano de grandes exponentes del sector.",
+                "url_imag": "https://www.sena.edu.co/es-co/Noticias/NoticiasImg/Antioquia-12092023.jpg",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            }
+        ]             
+
+    }
+]
